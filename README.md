@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FEFEFE&center=true&vCenter=true&random=true&width=375&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9" alt="Typing SVG" /></h2>
 
-<div align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="300"/></div>
+<div align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width=100%"/></div>
 
 <div align="center">
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=DD4814&logo=linux&color=18191A" /></a>
@@ -18,3 +18,5 @@
 <p>Я всегда открыт для обсуждения новых проектов, возможностей сотрудничества и обмена опытом с другими разработчиками. Не стесняйтесь связаться со мной через мой профиль GitHub, и мы сможем обсудить, как я могу помочь в вашем проекте или просто поговорить о технологиях и разработке.</p>
 
 <img src="https://github-widgetbox.vercel.app/api/skills?tools=html,css,sass,js,ts,tailwind,json,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,prettier,vue,react,next,tailwind,bootstrap&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pi10el&amp;theme=xcode&amp;bg_color=18191A&amp;point=00c6ff&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="pi10el github activity graph">
