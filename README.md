@@ -5,5 +5,6 @@
 <div align="center">
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=DD4814&logo=linux&color=18191A" /></a>
   <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/DISTRO-ubuntu-56b6c2?style=for-the-badge&logo=ubuntu&logoColor=DD4814&color=18191A" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/IDE-VSCode-98c379?style=for-the-badge&logo=visualstudio&color=DD4814&logoColor=00c6ff" /></a>
 </div>
 
