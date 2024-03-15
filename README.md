@@ -17,6 +17,4 @@
 <h3>🤝 Давайте связываться!</h3>
 <p>Я всегда открыт для обсуждения новых проектов, возможностей сотрудничества и обмена опытом с другими разработчиками. Не стесняйтесь связаться со мной через мой профиль GitHub, и мы сможем обсудить, как я могу помочь в вашем проекте или просто поговорить о технологиях и разработке.</p>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,sass,js,ts,tailwind,json,graphql,postgres,lua,bash,markdown&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
-<img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,prettier&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
-<img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,tailwind,bootstrap&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
+<img src="https://github-widgetbox.vercel.app/api/skills?tools=html,css,sass,js,ts,tailwind,json,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,prettier,vue,react,next,tailwind,bootstrap&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
