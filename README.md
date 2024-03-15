@@ -18,8 +18,10 @@
 <p>Я всегда открыт для обсуждения новых проектов, возможностей сотрудничества и обмена опытом с другими разработчиками. Не стесняйтесь связаться со мной через мой профиль GitHub, и мы сможем обсудить, как я могу помочь в вашем проекте или просто поговорить о технологиях и разработке.</p>
 
 <div align="center">
-  <a href="https://t.me/pi10el"><img width="60" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" alt="Pi10el on Telegram"></a>
+  <a href="https://t.me/pi10el"><img width="150" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" alt="Pi10el on Telegram"></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="">
 
 <img src="https://github-widgetbox.vercel.app/api/skills?tools=html,css,sass,js,ts,tailwind,json,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,prettier,vue,react,next,tailwind,bootstrap&includeNames=true&amp;theme=darkmode" alt="Pi10el Skills WidgetBox">
 
