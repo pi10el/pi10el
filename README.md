@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,vue,react,next,tailwind,bootstrap&theme=darkmode" alt="Pi10el Skills WidgetBox">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,vue,react,next,tailwind,bootstrap&theme=dark" alt="Pi10el Skills WidgetBox">
 </div>
 
 
