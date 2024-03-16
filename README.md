@@ -21,8 +21,9 @@
   <a href="https://t.me/pi10el"><img width="150" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" alt="Pi10el on Telegram"></a>
 </div>
 
+<h3>🦾 Навыки</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,graphql,postgres,lua,bash,markdown,git,docker,npm,yarn,webpack,gulp,firebase,vercel,mongodb,nodejs,vue,react,next,tailwind,bootstrap&theme=dark" alt="Pi10el Skills WidgetBox">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,graphql,postgres,lua,bash,markdown,git,github,docker,npm,yarn,webpack,gulp,firebase,vercel,prisma,mongodb,nodejs,vue,react,next,tailwind,bootstrap,blender,figma&theme=dark" alt="Pi10el Skills WidgetBox">
 </div>
 
 
